@@ -1,4 +1,4 @@
-public class precasso
+class precasso
 {
 public static void main(String args[])
 {
